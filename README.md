@@ -1,2 +1,2 @@
 # RBF Neural Network
-# Created an RBF Network to approximate the mapping defined by:
+# *-* Created an RBF Network based on Gaussian kernel functions with spread function 
